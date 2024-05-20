@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jebel Faya: Unveiling the Mysteries of Ancient Arabia</title>
+    <style>
+        /* CSS styling */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #343a40;
+        }
+        section {
+            padding: 20px;
+            background-color: #fff;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jebel Faya: Unveiling the Mysteries of Ancient Arabia</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Archaeological Findings</h2>
+            <p>
+                Jebel Faya, situated in the United Arab Emirates, has been a focal point for archaeologists seeking to understand human history in the region. Excavations at this site have revealed remarkable insights into the past, spanning thousands of years.
+            </p>
+            <p>
+                Among the key archaeological findings at Jebel Faya are:
+            </p>
+            <ul>
+                <li>Stone Tools</li>
+                <li>Burial Sites</li>
+                <li>Pottery Fragments</li>
+                <li>Animal Bones</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Life of People</h2>
+            <p>
+                The archaeological evidence from Jebel Faya offers insights into the daily lives and activities of ancient peoples. These findings suggest that:
+            </p>
+            <ul>
+                <li>Hunter-Gatherer Lifestyle</li>
+                <li>Social Organization</li>
+                <li>Adaptation to Environment</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Migration and Factors Responsible</h2>
+            <p>
+                The archaeological record at Jebel Faya also provides clues about ancient migrations and the factors that may have influenced human movements:
+            </p>
+            <ul>
+                <li>Climate Change</li>
+                <li>Resource Availability</li>
+                <li>Cultural Exchange</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Images of Artefacts, Tools, and Other Materials</h2>
+            <img src="artifact1.jpg" alt="Artifact 1">
+            <img src="artifact2.jpg" alt="Artifact 2">
+        </section>
+    </main>
+    <footer>
+        &copy; 2024 Jebel Faya Archaeological Project
+    </footer>
+</body>
+</html>
